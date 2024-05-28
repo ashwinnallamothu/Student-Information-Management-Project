@@ -19,6 +19,9 @@ Run the Main class to start the program.
 Follow the on-screen instructions to interact with the system.
 
 ## File Structure
-### Main.java: Contains the main class to run the program and user interaction logic.
-### Student.java: Defines the Student class with attributes and methods to represent student information.
-### StudentDatabase.java: Implements the StudentDatabase class to manage student records, including adding, deleting, modifying, and searching students.
+### Main.java: 
+Contains the main class to run the program and user interaction logic.
+### Student.java: 
+Defines the Student class with attributes and methods to represent student information.
+### StudentDatabase.java: 
+Implements the StudentDatabase class to manage student records, including adding, deleting, modifying, and searching students.
